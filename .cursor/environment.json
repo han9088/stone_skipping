@@ -1,0 +1,4 @@
+{
+  "name": "stone-skipping-docs",
+  "install": "echo 'Stone Skip: documentation phase. See docs/PRD-Godot4.md and docs/Godot4-Learning-Roadmap.md.'"
+}
